@@ -1,0 +1,17 @@
+doctor_id,doctor_name,department_id,experience_years,city
+DR1001,Aarav Joshi,D001,10,Mumbai
+DR1002,Ishaan Patel,D001,24,Aurangabad
+DR1003,Manish Mehta,D002,4,Pune
+DR1004,Aditya Kumar,D002,10,Aurangabad
+DR1005,Deepak Kumar,D003,25,Aurangabad
+DR1006,Rohit Kumar,D003,17,Aurangabad
+DR1007,Aarav Deshmukh,D004,25,Nashik
+DR1008,Sakshi Joshi,D004,7,Mumbai
+DR1009,Sakshi Patel,D004,5,Nashik
+DR1010,Riya Rao,D005,22,Nagpur
+DR1011,Vivaan Singh,D005,20,Pune
+DR1012,Aditya Nair,D006,12,Aurangabad
+DR1013,Riya Kulkarni,D006,9,Pune
+DR1014,Vivaan Kumar,D006,12,Pune
+DR1015,Arjun Mehta,D007,11,Nashik
+DR1016,Riya Deshmukh,D007,14,Nagpur
